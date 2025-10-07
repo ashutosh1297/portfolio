@@ -295,10 +295,10 @@
 
   // Content
   const WELCOME = `Welcome to Ashutosh Sharma's Terminal Portfolio!\nType 'help' to see available commands.\nIf you are just here for the resume, type 'cat resume.pdf' to download it.\n`;
-  const WORK = `Work Experience:\n- Software Engineer, ABC Corp (2023-Present)\n  - Developed web apps with Django and React\n  - Integrated Sentry and OpenReplay for error tracking\n- Intern, XYZ Solutions (2022-2023)\n  - Assisted in building internal automation tools\n`;
-  const EDUCATION = `Education:\n- B.Tech in Computer Science, University of Example (2019-2023)\n`;
-  const LANG = `Languages:\n- Python\n- JavaScript\n- TypeScript\n- SQL\n`;
-  const FRAME = `Frameworks:\n- Django\n- React\n- Next.js\n- Node.js & Express\n`;
+  const WORK = ``;
+  const EDUCATION = ``;
+  const LANG = ``;
+  const FRAME = ``;
 
   // Completion lists
   const BASE_COMMANDS = ['help','clear','ls','cat','exit','quit','close'];
@@ -396,14 +396,6 @@
       print(text + '\n');
       return true;
     }catch(err){
-      // fallback to in-memory mapping
-      const map = {
-        'work.txt': WORK,
-        'education.txt': EDUCATION,
-        'languages.txt': LANG,
-        'frameworks.txt': FRAME
-      };
-      if(map[filename]){ print(map[filename] + '\n'); return true; }
       return false;
     }
   }
