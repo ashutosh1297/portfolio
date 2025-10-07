@@ -1,0 +1,17 @@
+Work Experience:
+
+- Senior Software Engineer — Ramsey Theory Group (Sep 2023 – Present):
+  - Lead development of full-stack apps (Next.js, Django) in a monorepo. Managed CI/CD, AWS/Kubernetes deployments and on-call support for high-traffic services.
+  - Introduced automated testing and backend optimizations that reduced latency and improved reliability.
+
+- Software Engineer Intern — Yieldmo (May 2022 – Dec 2022):
+  - Refactored QA tooling with React, enabling cross-environment ad testing and shrinking app bundle size.
+  - Built automation and Python tooling to speed up testing and deployments.
+
+- Full Stack Developer — LeadR (Jan 2021 – Jun 2021):
+  - Built a mobile-first lead management platform (React + Django) and optimized APIs to handle large daily volumes.
+
+- Front-end Developer — The Fast Way (Nov 2019 – Nov 2020):
+  - Developed React/React Native apps, integrated REST APIs, and implemented WebRTC features from design.
+
+Contact: ashutosh@example.com

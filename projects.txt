@@ -1,0 +1,12 @@
+Projects
+
+- Object Detection for Automated Driving — CARLA (Apr 2023 – May 2023):
+  - Integrated pre-trained perception models into CARLA using OpenStreetMap data to validate perception/control logic.
+  - Processed camera and LiDAR feeds for collective perception experiments.
+
+- Mason Transport Protocol & DNSSEC Client (Nov 2022):
+  - Implemented a reliable TCP-like transport with sequencing and retransmission.
+  - Built a Python DNSSEC client (chain-of-trust verification) with a Spring Boot backend for live request visualization.
+
+- Real-Time Traffic Management System (Jan 2019 – May 2019):
+  - Engineered adaptive traffic signal control on BeagleBone Black (C), using real-time sensor inputs to optimize timings.
