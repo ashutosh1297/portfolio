@@ -66,5 +66,3 @@ You can also open `index.html` directly via `file://`, but the page will fall ba
 - Improve Tab completion with case-insensitive matching and cycling through multiple matches.
 - Add unit tests for the command parsing logic (small JS test harness).
 - Extract JS into a separate module and add a minimal build/test pipeline if you plan to extend the project.
-
-If you'd like, I can implement any of these follow-ups now. Want me to make the `Download Resume` button visually secondary (outline) or hide the overlay after download?  
