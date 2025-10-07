@@ -1,0 +1,36 @@
+
+Frameworks & Libraries:
+- React
+- Redux
+- Next.js
+- Django
+- DRF
+- Spring Boot
+
+Databases & Tools:
+- PostgreSQL
+- SQL
+- Docker
+- Kubernetes
+- Nx Monorepo
+
+Cloud Platforms:
+- AWS
+- GCP
+- Azure
+- GitHub Actions
+- Jenkins
+- GitLab CI/CD
+- Rancher
+
+Collaboration & Automation:
+- JIRA
+- Git
+- Actions
+- Helm
+
+Frameworks:
+- Django
+- React
+- Next.js
+- Node.js & Express

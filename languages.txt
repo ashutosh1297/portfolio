@@ -1,0 +1,9 @@
+Languages:
+- JavaScript
+- TypeScript
+- Python
+- Ruby
+- C
+- Bash
+- Golang
+- PL/SQL
