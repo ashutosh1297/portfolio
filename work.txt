@@ -14,4 +14,4 @@ Work Experience:
 - Front-end Developer — The Fast Way (Nov 2019 – Nov 2020):
   - Developed React/React Native apps, integrated REST APIs, and implemented WebRTC features from design.
 
-Contact: ashutosh@ash.sharma121297@gmail.com
+Contact: ash.sharma121297@gmail.com
